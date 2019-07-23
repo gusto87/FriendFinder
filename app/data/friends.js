@@ -1,6 +1,6 @@
 var friends = [
 {
-    "name":"Randy",
+    "name":"Randy Savage",
     "image":"./app/data/Randy.png",
     "scores":[
         5,
@@ -16,7 +16,7 @@ var friends = [
       ]
   },
   {
-      "name": "Wesley",
+      "name": "Wesley Snipes",
       "image": "",
       "scores": [
           2,
@@ -30,6 +30,20 @@ var friends = [
           2,
           2
       ] 
+  },
+  {
+      "name": "Ric Flair",
+      "image": "",
+      "scores": [
+          3,
+          2,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3
+      ]
   }
 ]
 module.exports = friends;
