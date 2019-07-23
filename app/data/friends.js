@@ -1,7 +1,7 @@
 var friends = [
 {
     "name":"Randy",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "image":"./app/data/Randy.png",
     "scores":[
         5,
         1,
@@ -14,5 +14,22 @@ var friends = [
         4,
         1
       ]
+  },
+  {
+      "name": "Wesley",
+      "image": "",
+      "scores": [
+          2,
+          4,
+          3,
+          2,
+          4,
+          1,
+          4,
+          2,
+          2,
+          2
+      ] 
   }
 ]
+module.exports = friends;

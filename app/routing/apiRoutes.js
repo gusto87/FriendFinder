@@ -1,5 +1,5 @@
 var friends = require('../data/friends.js');
-
+var path = require("path")
 // Routing the apiRoutes with the app.get and app.post functions
 module.exports = function (app) {
     // The app.get request handles when user 'visits' a page
@@ -30,7 +30,7 @@ module.exports = function (app) {
             console.log(friends[i].name);
             totalDifference = 0;
 
-            //loop through that friends score and the users score and calculate the absolute difference between the two and push that to the total difference variable set above
+            //loop through  friends score and the users score and calculate the total difference between the two and push that to the total difference variable set above
             for (var j = 0; j < 10; j++) {
                 // We calculate the difference between the scores and sum them into the totalDifference
                 totalDifference += Math.abs(parseInt(userScores[j]) - parseInt(friends[i].scores[j]));

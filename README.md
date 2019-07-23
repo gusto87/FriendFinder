@@ -6,4 +6,9 @@ Answer a few questions to find out who is the best match for your personality.
 
 <hr>
 
-<h1>Technologies used</h1>
+<h1>Technologies utilized</h1>
+
+Javascript
+HTML
+Node
+JQuery
