@@ -20,15 +20,14 @@ A modal is then toggled, displaying the the best match to the person who just to
 In essense, this will also be a form of notes that you may later reference weeks later
 Friends are stored as such:
 {
-	name: "Charlie",
-	photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/0/0a/Charlie_%289%29.jpg",
+	
 	scores: [5, 1, 2, 3, 1, 2, 5, 1, 1, 1]
 }
 
 <h1>Technologies utilized</h1>
-
+<li>
 Javascript
 HTML
 Node
 JQuery
-
+</li>
