@@ -1,14 +1,12 @@
 # FriendFinder
 
-This application is designed to help you find a matching friend with likes and personalities. 
-
-Answer a few questions to find out who is the best match for your personality.
 
 <hr>
 
 Overview
-In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. You will use Express to handle routing. 
+This application is designed to help you find a matching friend with likes and personalities. 
 
+Answer a few questions to find out who is the best match for your personality.
 
 
 Code Explanation
@@ -25,9 +23,13 @@ Friends are stored as such:
 }
 
 <h1>Technologies utilized</h1>
+
 <li>
+Bootstrap
 Javascript
 HTML
 Node
 JQuery
+Node.js
+Express.js
 </li>
