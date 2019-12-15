@@ -3,7 +3,7 @@
 
 <hr>
 
-Overview
+Overview: <br>
 This application is designed to help you find a matching friend with likes and personalities. 
 
 Answer a few questions to find out who is the best match for your personality.
@@ -24,12 +24,12 @@ Friends are stored as such:
 
 <h1>Technologies utilized</h1>
 
-<li>
-Bootstrap
-Javascript
-HTML
-Node
-JQuery
-Node.js
-Express.js
-</li>
+<ul>
+	<li>Bootstrap</li>
+	<li>Javascript</li>
+	<li>HTML</li>
+	<li>Node</li>
+	<li>JQuery</li>
+	<li>Node.js</li>
+	<li>Express.js</li>
+</ul>
